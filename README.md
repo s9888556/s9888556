@@ -10,10 +10,16 @@
 <img src="https://img.shields.io/badge/iOS-15.0%2B-success" alt="iOS Version 16.0"/></a>
 </p>
 
-| App	                  	| Github            |                                      | 
-|:---------------------------|:------------------|:------------------------------------|
-| Игра для\ компании "Бомба"| https://github.com/s9888556/SM8Bomb       | <img src="images/SM8Bomb.png" width="160">| 
-| Программа "Лучшие рецепты"| https://github.com/s9888556/SM8BestRecipes| <img src="images/BestRecipes.gif" width="160">| 
+|SM8											  |                                                |                                     | 
+|:-------------------------------------------|:-----------------------------------------------|:------------------------------------|
+|Игра для компании "Бомба"					  |Программа "Лучшие рецепты"                      |                                     | 
+|https://github.com/s9888556/SM8Bomb         |https://github.com/s9888556/SM8BestRecipes      |                                     | 
+|<img src="images/SM8Bomb.png" width="160">  |<img src="images/BestRecipes.gif" width="160">  |                                     |
+|**SM11**											  |                                                |                                     | 
+|Игра "Кто хочет стать миллионером?"		  |                      |                                     | 
+|         |   |                                     | 
+|  | |                                     |
+
 
 
 <!--
