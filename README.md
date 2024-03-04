@@ -1,7 +1,18 @@
 ### Hi there 👋
 
 
-#### Swift Marathon - team projects
+#### DevRush Community - [Swift Marathon](https://t.me/devrush_community/13663)
+
+|SM8 - team projects||| 
+|:-|:-|:-|
+|Игра для компании "Бомба"					        |Программа "Лучшие рецепты"                              ||
+|[repository](https://github.com/s9888556/SM8Bomb) |[repository](https://github.com/s9888556/SM8BestRecipes)||
+|<img src="images/SM8Bomb.png" width="200">        |<img src="images/BestRecipes.gif" width="200">          ||
+|**SM11 - team projects**||| 
+|Игра "Кто хочет стать миллионером?"		        |||
+|[repository](https://github.com/s9888556/SM11WhoWantsToBeAMillionaire)|||
+|<img src="images/WhoWantsToBeAMillionaire.png" width="200">|||
+
 
 <p align="left"> 
 <a href="https://swift.org">
@@ -10,15 +21,10 @@
 <img src="https://img.shields.io/badge/iOS-15.0%2B-success" alt="iOS Version 16.0"/></a>
 </p>
 
-|SM8||| 
-|:-|:-|:-|
-|Игра для компании "Бомба"					        |Программа "Лучшие рецепты"                              ||
-|[repository](https://github.com/s9888556/SM8Bomb) |[repository](https://github.com/s9888556/SM8BestRecipes)||
-|<img src="images/SM8Bomb.png" width="200">        |<img src="images/BestRecipes.gif" width="200">          ||
-|**SM11**||| 
-|Игра "Кто хочет стать миллионером?"		        |||
-||||
-||||
+<h2>Контакты<br>
+
+<h3>
+ <a href="https://t.me/s9888556"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 <!--
 **s9888556/s9888556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
